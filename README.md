@@ -56,9 +56,7 @@
 
 ## 📊 GitHub Stats  
 
-![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuevaGavilanBenjamin&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuevaGavilanBenjamin&layout=compact&theme=tokyonight)
+![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuevaGavilanBenjamin&show_icons=true&theme=tokyonight&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuevaGavilanBenjamin&layout=compact&theme=tokyonight)
 
 
 ---
