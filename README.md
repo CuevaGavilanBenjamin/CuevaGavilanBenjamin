@@ -54,10 +54,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)  
+![Benjamín's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CuevaGavilanBenjamin&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuevaGavilanBenjamin&layout=compact&theme=tokyonight)  
 
 ---
 
