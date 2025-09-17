@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Benjamín Josué Cueva Gavilán  
 
-🎓 Estudiante de **Ingeniería de Sistemas (UNI, 7mo ciclo, tercio superior)** apasionado por la **automatización de procesos, ingeniería de datos y análisis de información**.  
+🎓 Estudiante de **Ingeniería de Sistemas (UNI, 7mo ciclo, quinto superior)** apasionado por la **automatización de procesos, ingeniería de datos y análisis de información**.  
 💡 Me interesa aplicar tecnología para optimizar procesos, crear soluciones de impacto y desarrollar dashboards que faciliten la toma de decisiones.  
 
 ---
